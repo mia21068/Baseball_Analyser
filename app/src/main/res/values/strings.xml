@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Baseball_Analyser</string>
+    <string name="Baseball_Analyser">野球分析アプリ</string>
+    <string name="Start">始める</string>
 </resources>
